@@ -1,0 +1,14 @@
+body {
+    background: #fafafa;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.iso-svg {
+    display: block;
+    width: 100%;
+}
+
+.button {
+    cursor: pointer;
+}
